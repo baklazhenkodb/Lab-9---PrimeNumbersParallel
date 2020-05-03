@@ -1,0 +1,9 @@
+C:\Users\Asus\Source\Repos\baklazhenkodb\primenumbers\PrimeNumbers-GUI\bin\Debug\PrimeNumbers-GUI.exe.config
+C:\Users\Asus\Source\Repos\baklazhenkodb\primenumbers\PrimeNumbers-GUI\bin\Debug\PrimeNumbers-GUI.exe
+C:\Users\Asus\Source\Repos\baklazhenkodb\primenumbers\PrimeNumbers-GUI\bin\Debug\PrimeNumbers-GUI.pdb
+C:\Users\Asus\Source\Repos\baklazhenkodb\primenumbers\PrimeNumbers-GUI\obj\x86\Debug\PrimeNumbers-GUI.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\baklazhenkodb\primenumbers\PrimeNumbers-GUI\obj\x86\Debug\PrimeNumbers_GUI.MainForm.resources
+C:\Users\Asus\Source\Repos\baklazhenkodb\primenumbers\PrimeNumbers-GUI\obj\x86\Debug\PrimeNumbers_GUI.Properties.Resources.resources
+C:\Users\Asus\Source\Repos\baklazhenkodb\primenumbers\PrimeNumbers-GUI\obj\x86\Debug\PrimeNumbers-GUI.csproj.GenerateResource.cache
+C:\Users\Asus\Source\Repos\baklazhenkodb\primenumbers\PrimeNumbers-GUI\obj\x86\Debug\PrimeNumbers-GUI.exe
+C:\Users\Asus\Source\Repos\baklazhenkodb\primenumbers\PrimeNumbers-GUI\obj\x86\Debug\PrimeNumbers-GUI.pdb
